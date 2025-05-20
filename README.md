@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shobhit009
 - 👀 I’m interested in Artificial Intelligence, Machine Learning
-- 🌱 I’m currently learning Scalable ML 
-- 💞️ I’m looking to collaborate on ML Platforms
+- 🌱 I’m currently learning Agentic AI with MCP 
+- 💞️ I’m looking to collaborate on Deep Learning, generative AI
 - 📫 Reach me on shobhit.kumar2410@gmail.com
 
 <!---
